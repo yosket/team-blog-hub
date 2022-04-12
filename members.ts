@@ -7,7 +7,10 @@ export const members: Member[] = [
     role: "CEO",
     bio: "",
     avatarSrc: "https://images.wantedly.com/i/oe22a8z?w=160&h=160",
-    sources: ["https://note.com/hironobu_ueno/rss"],
+    sources: [
+      "https://note.com/hironobu_ueno/rss",
+      "https://submirror.xyz/master-nobu.eth",
+    ],
     twitterUsername: "h2ueno",
     githubUsername: "djt-ueno",
   },
@@ -17,7 +20,12 @@ export const members: Member[] = [
     role: "CTO",
     bio: "",
     avatarSrc: "https://images.wantedly.com/i/Mny28z3?w=160&h=160",
-    sources: ["https://note.com/rmanzoku/rss", "https://submirror.xyz/rmanzoku.eth", "http://qiita.com/rmanzoku/feed.atom", "https://zenn.dev/rmanzoku/feed"],
+    sources: [
+      "https://note.com/rmanzoku/rss",
+      "https://submirror.xyz/rmanzoku.eth",
+      "http://qiita.com/rmanzoku/feed.atom",
+      "https://zenn.dev/rmanzoku/feed"
+    ],
     twitterUsername: "rmanzoku",
     githubUsername: "rmanzoku",
   },
